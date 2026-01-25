@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["version", "plugins"],
+  "properties": {
+    "version": { "type": "integer" },
+    "updated_at": { "type": "string" },
+    "plugins": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "package", "description"],
+        "properties": {
+          "name": { "type": "string" },
+          "package": { "type": "string" },
+          "description": { "type": "string" },
+          "author": { "type": "string" },
+          "homepage": { "type": "string" },
+          "category": { "type": "string" },
+          "min_keystone": { "type": "string" },
+          "recommended": { "type": "boolean" }
+        }
+      }
+    }
+  }
+}
