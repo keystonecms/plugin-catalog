@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/keystonecms/plugin-catalog/compare/v1.0.0...v1.1.0) (2026-01-26)
+
+
+### Bug Fixes
+
+* added shopping cart plugin ([d656a82](https://github.com/keystonecms/plugin-catalog/commit/d656a8268d18ccb08f0c4460ba1615a4efae9df1))
+
+
+### Features
+
+* added shoppingcart plugin ([8d7761c](https://github.com/keystonecms/plugin-catalog/commit/8d7761cd8fe643978315caaff0a55794216f42df))
+
 # 1.0.0 (2026-01-25)
 
 
