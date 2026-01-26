@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-01-24",
+  "updated_at": "2026-01-26",
   "plugins": [
     {
       "name": "Pages",
@@ -21,6 +21,16 @@
       "author": "Keystone CMS",
       "homepage": "https://github.com/keystonecms/plugin-auth",
       "category": "security",
+      "min_keystone": "^1.0"
+    },
+    {
+      "name": "ShoppingCart",
+      "slug": "shoppingcart",
+      "package": "keystone/plugin-shoppingcart",
+      "description": "Fully functioning shopping cart",
+      "author": "Keystone CMS",
+      "homepage": "https://github.com/keystonecms/plugin-shoppingcart",
+      "category": "shopping",
       "min_keystone": "^1.0"
     }
   ]
