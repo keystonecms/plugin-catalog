@@ -19,3 +19,5 @@ administrators to discover and install plugins via Composer.
 3. Open a pull request
 
 All submissions are reviewed before being merged.
+
+--
