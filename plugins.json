@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated_at": "2026-01-26",
+  "version": 4,
+  "updated_at": "2026-01-30",
   "plugins": [
     {
       "name": "Pages",
@@ -31,6 +31,16 @@
       "author": "Keystone CMS",
       "homepage": "https://github.com/keystonecms/plugin-shoppingcart",
       "category": "shopping",
+      "min_keystone": "^1.0"
+    },
+    {
+      "name": "Blog",
+      "slug": "blog",
+      "package": "keystonecms/plugin-blog",
+      "description": "Blog article with comments",
+      "author": "Keystone CMS",
+      "homepage": "https://github.com/keystonecms/plugin-blog",
+      "category": "blog",
       "min_keystone": "^1.0"
     }
   ]
