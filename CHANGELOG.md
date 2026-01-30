@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/keystonecms/plugin-catalog/compare/v1.1.0...v1.1.1) (2026-01-26)
+
+
+### Bug Fixes
+
+* changed package names iaw github ([490b12c](https://github.com/keystonecms/plugin-catalog/commit/490b12cbe93c37cfb607c9b641fef1eaac4a4b14))
+
 # [1.1.0](https://github.com/keystonecms/plugin-catalog/compare/v1.0.0...v1.1.0) (2026-01-26)
 
 
