@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/keystonecms/plugin-catalog/compare/v1.1.1...v1.1.2) (2026-01-30)
+
+
+### Bug Fixes
+
+* added blog plugin to plugins.json ([f69c62f](https://github.com/keystonecms/plugin-catalog/commit/f69c62f2d75cb84d2a73f24a6c33d2c8583e586a))
+
 ## [1.1.1](https://github.com/keystonecms/plugin-catalog/compare/v1.1.0...v1.1.1) (2026-01-26)
 
 
